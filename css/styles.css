@@ -1,0 +1,238 @@
+
+body {
+  background-color: #afeeee;
+  margin: 0;
+  text-align: center;
+  /* background-image: url("Cirrus_Clounds.jpg");
+  background-repeat: repeat; */
+}
+
+h1 {
+  color: white;
+  margin: 0 auto 10px auto;
+  font-family: 'Indie Flower', cursive;
+  font-size: 5rem;
+  padding-top: 215px;
+  /* line-height: 2; */
+}
+
+h2 {
+  color: white;
+  margin: 10px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: white;
+  margin: 0;
+  font-family: 'Crimson Text', serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+p {
+  font-family: 'Crimson Text', serif;
+  font-size: 1rem;
+}
+
+a {
+  font-family: 'Crimson Text', serif;
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+}
+
+hr {
+  border-color: #008b8b;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 55px;
+  height: 0;
+  margin: 75px auto;
+}
+
+br {
+  padding: 75px;
+}
+
+.space {
+  background-color: black;
+  height: 750px;
+  margin: 0;
+  padding: 0;
+  /* padding-top: 215px;
+  padding-bottom: 250px; */
+}
+
+.sun {
+  position: absolute;
+  left: 5%;
+  width: 14.375rem;
+}
+
+.top-text {
+  color: white;
+  /* color: #010038; */
+}
+
+.moon {
+  position: absolute;
+  right: 5%;
+  top: 20%;
+  transform: rotate(15deg);
+}
+
+.satellite {
+  position: absolute;
+  left: 35%;
+  width: 11.25rem;
+  padding-top: 5rem;
+}
+
+.space-to-sky {
+  height: 100px;
+  background-color: black;
+  background-image: linear-gradient(black, #537ec5);
+}
+
+.rocket {
+  position: absolute;
+  right: 10%;
+  width: 4.625rem;
+}
+
+.profile {
+  padding-top: 25px;
+}
+
+.profile-pic {
+  border-radius: 100px;
+}
+
+.hello-para {
+  line-height: 1.5;
+  color: #010038;
+  margin: auto;
+  width: 60%;
+}
+
+.sky {
+  background-color: #afeeee;
+  /* padding-bottom: 85px; */
+  background-image: linear-gradient(#537ec5, #afeeee);
+}
+
+.cloud-left {
+  position: absolute;
+  left: 3%
+}
+
+.middle-heading {
+  color: #010038;
+  margin: 0 auto 10px;
+}
+
+.skill-row {
+  margin: 50px auto 100px;
+  text-align: left;
+  width: 60%;
+}
+
+.skill-row-bottom {
+  margin: 100px auto 125px;
+  text-align: left;
+  width: 60%;
+}
+
+/* .skill-image {
+  float: left;
+  margin: 0 30px 0 0;
+  width: 25%;
+} */
+
+.skill-image1 {
+  float: left;
+  margin: 0 30px 0 0;
+  width: 25%;
+  border-radius: 75px;
+}
+
+.skill-image2 {
+  float: right;
+  margin: 0 0 0 30px;
+  width: 25%;
+}
+
+.skill-image3 {
+  float: left;
+  margin: 0 30px 0 0;
+  width: 25%;
+  border-radius: 75px;
+}
+
+/* .skill-text {
+  line-height: 1.35;
+} */
+
+.skill-text1 {
+  line-height: 1.5;
+  color: #010038;
+}
+
+.skill-text2 {
+  line-height: 1.5;
+  color: #010038;
+}
+
+.skill-text3 {
+  line-height: 1.5;
+  color: #010038;
+}
+
+.contact-para {
+  line-height: 1.5;
+  color: #010038;
+  margin: auto auto 15px;
+  width: 50%;
+}
+
+.button {
+  color: white;
+  background-color: #5edfff;
+  text-decoration: none;
+  padding: 5px 25px;
+}
+
+.cloud-right {
+  position: absolute;
+  right: 3%
+}
+
+.ground {
+  /* padding: 20px 0 15px 0; */
+  padding-top: 100px;
+  /* height: 196px; */
+  background-image: url("ground.jpg");
+}
+
+.bottom-links {
+  /* margin: 15px 0 auto; */
+  /* margin: 15px 15px; */
+  color: #004a2f;
+  padding: 0 15px;
+}
+
+.copyright {
+  margin-bottom: 0;
+}
+
+.bottom-bar {
+  height: 40px;
+  background-color: green;
+}
